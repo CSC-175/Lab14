@@ -1,7 +1,7 @@
 # Count Back Function 
 **Assignment Description**
 
-Complete the given template that prompts a user for an amount of money to be counted back to a customer in denominations of 1¢, 5¢, 10¢, 25¢, $1, $5, $10, $20, $50, and $100. To complete the code you will need to create a function call countBack that integrates with the given driver lab14Driver.cpp. This driver which iteratively passes an amount of money to the function which determines the next denomination to count back until the amount counted back reaches zero. The output of the program will prints the most efficient denominations to be counted back to the user. Note: Place the implementation code for the countBack function into the lab14.cpp file. This is the only file you need to upload to GitHub to spin up the auto test.
+Complete the given template that prompts a user for an amount of money to be counted back to a customer in denominations of 1¢, 5¢, 10¢, 25¢, $1, $5, $10, $20, $50, and $100. To complete the code you will need to create a function call countBack that integrates with the given driver lab14Driver.cpp. This driver which iteratively passes an amount of money to the function which determines the next denomination to count back until the amount counted back reaches zero. The output of the program will prints the most efficient denominations to be counted back to the user. **Note: Place the implementation code for the countBack function into the lab14.cpp file. This is the only file you need to upload to GitHub to spin up the auto test.**
 
 **Purpose of Assignment**
 
