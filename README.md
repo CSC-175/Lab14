@@ -14,30 +14,35 @@ This assignment has the following purposes:
 
 **Sample Output**
 
-Enter amount to count back: $1386.67
-13 $100 bill(s)
-1 $50 bill(s)
-1 $20 bill(s)
-1 $10 bill(s)
-1 $5 bill(s)
-1 $1 bill(s)
-2 quarter(s)
-1 dime(s)
-1 nickel(s)
+<table><tr><td>
+<samp>
+
+Enter amount to count back: $1386.67\
+13 $100 bill(s)\
+1 $50 bill(s)\
+1 $20 bill(s)\
+1 $10 bill(s)\
+1 $5 bill(s)\
+1 $1 bill(s)\
+2 quarter(s)\
+1 dime(s)\
+1 nickel(s)\
 2 penny(ies)
 
 Want to calculate another amount? (y/n): y
 
-Enter amount to count back: $243.86
-2 $100 bill(s)
-2 $20 bill(s)
-3 $1 bill(s)
-3 quarter(s)
-1 dime(s)
+Enter amount to count back: $243.86\
+2 $100 bill(s)\
+2 $20 bill(s)\
+3 $1 bill(s)\
+3 quarter(s)\
+1 dime(s)\
 1 penny(ies)
 
 Want to calculate another amount? (y/n): n
 
 Thanks for using the currency countback calculator!
+</samp>
 
+</td></tr></table>
 
