@@ -8,8 +8,8 @@ int main()
     string denomination; //variable that will hold face value names
     int chg; //variable that holds the current amount to be counted back
     int num; //variable that holds the number of each denomination
-	
-	chg = 1287;
+    cin >> chg;
+    // chg = 1287;
 
 	while (chg > 0) //loop that repeats until chg equals zero
 	{
