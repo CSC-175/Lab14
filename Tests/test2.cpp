@@ -14,7 +14,7 @@ int main()
 	while (chg > 0) //loop that repeats until chg equals zero
 	{
 		countBack(denomination, num, chg); //function call to convert chg to coins
-		cout << num << denomination << endl; //output of the number of each denomination
+		cout << num << denomination << ", "; //output of the number of each denomination
 	}
 
 
