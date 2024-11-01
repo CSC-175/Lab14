@@ -15,9 +15,9 @@ int main()
         cout << "\nEnter an amount to count back $";
         cin >> dollarAmount;
         cout << endl;
-        while (dollarAmount > 0) //oop that repeats until chg equals zero
+        while (dollarAmount > 0) //oop that repeats until dollarAmount equals zero
         {
-            countBack(denomination, num, dollarAmount); //function call to convert dollarAmount to coins
+            countBack(denomination, num, dollarAmount); //function call to convert dollarAmount to denominations of change
             cout << num << denomination << endl; //output of the number of each denomination
         }
         cout<<"\n\nWant to try another amount? (y/n): "; //prompt for user to repeat conversion
