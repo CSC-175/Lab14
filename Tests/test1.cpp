@@ -9,7 +9,8 @@ int main()
     int chg; //variable that holds the current amount to be counted back
     int num; //variable that holds the number of each denomination
     cin >> chg;
-    //chg = 95787;
+    
+    //chg = 957.87;
 
 	while (chg > 0) //loop that repeats until chg equals zero
 	{
