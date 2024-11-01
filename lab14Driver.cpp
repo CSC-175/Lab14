@@ -15,7 +15,6 @@ int main()
     {
         cout << "\nEnter an amount to count back: ";
         cin >> dollarAmount;
-        chg = dollarAmount * 100;
         cout << endl;
         while (chg > 0) //oop that repeats until chg equals zero
         {
